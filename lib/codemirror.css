@@ -276,6 +276,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {color: #f22;}
 .CodeMirror-widget {}
 
 .CodeMirror-code {
+  font-size: 1.1em;
   outline: none;
 }
 
