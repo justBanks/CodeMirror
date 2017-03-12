@@ -1,7 +1,6 @@
 # My customized local code editor for JavaScript  
 Simply browse [/mode/javascript/index.html](https://github.com/justBanks/CodeMirror/blob/master/mode/javascript) and code happily!&nbsp;&nbsp;*--banks*      
 
-![](https://github.com/justBanks/CodeMirror/blob/master/demo/screenshot.png)  
 ---
 
 CodeMirror is a versatile text editor implemented in JavaScript for
