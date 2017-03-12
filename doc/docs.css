@@ -47,7 +47,7 @@ em {
 }
 
 article {
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 0 0 160px;
   border-left: 2px solid #E30808;
   border-right: 1px solid #ddd;
@@ -73,12 +73,22 @@ article {
   z-index: 1;
 }
 
-@media screen and (min-width: 1000px) {
+#output {
+  width:96%; 
+  min-height:180px; 
+  background: #0F192A;
+  padding:15px;
+  font-size: 1.2em;
+  font-weight: 500;
+  color: #1DC116;
+}
+
+@media screen and (min-width: 1200px) {
   article {
     margin: 0 auto;
   }
   #nav {
-    right: 50%;
+    right: 60%;
     width: auto;
     border-right: 349px solid transparent;
   }
@@ -212,7 +222,7 @@ section.first {
   text-align: right;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .actions {
     padding-top: 120px;
   }
